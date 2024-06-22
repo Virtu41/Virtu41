@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Oscar Lam 👋</h1>
+<h2 align="left">About Me</h2>
+<p>I am a 3rd Year Computer Science Student at York University</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Virtu41&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
 <!--
 **Virtu41/Virtu41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
