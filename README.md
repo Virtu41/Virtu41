@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=Virtu41&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
 <!--
 **Virtu41/Virtu41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
