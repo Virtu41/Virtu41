@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Oscar👋</h1>
-<a href="https://www.linkedin.com/in/oscarl04/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="https://www.linkedin.com/in/oscarl04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oscarl04/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="https://www.linkedin.com/in/oscarl04/" height="30" width="100" /></a>
 <h2 align="left">About Me</h2>
 <p>I am a 3rd Year Computer Science Student at York University</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Virtu41&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
