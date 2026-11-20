@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Oscar Lam👋</h1>
 <a href="https://www.linkedin.com/in/oscarl04/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="https://www.linkedin.com/in/oscarl04/" height="30" width="100" /></a>
 <h2 align="left">About Me</h2>
-<p>I am a 3rd Year Computer Science Student at York University</p>
+<p>I am a 4th Year Computer Science Student at York University</p>
 <h2 align="left">Languages and tools</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="python"/>
